@@ -1,0 +1,1 @@
+A cleric who hid in the woods and was the original caretaker of [[Sweetheart]]

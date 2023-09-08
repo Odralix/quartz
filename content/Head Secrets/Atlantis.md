@@ -1,0 +1,1 @@
+A soverign state separate from the rest of Àtopos as its inhabitants are sea-dwelling and do poorly on land.
