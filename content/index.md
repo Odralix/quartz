@@ -4,9 +4,9 @@ cssclasses:
   - dashboard
 banner_y: 0.32333
 ---
-<p style="text-align: center;">Welcome To Átopos!</p>
----
+## <p style="text-align: center;">Welcome To Átopos!</p>
 
+---
 - ### 🌐World 
 	- [[Hexisos]]
 	- [[Amazons of the north]]
@@ -40,7 +40,6 @@ banner_y: 0.32333
 	- [[12 year war]]
 	- [[Political Situation]]
 	- [[Apóllumnos]]
-	- 
 - ### 📝Player Resources
 	- [[Note 0 - Cinematic Intro]]
 	- [[Note XI A Ship of Silence| Latest Session]]
