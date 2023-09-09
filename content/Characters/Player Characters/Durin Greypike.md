@@ -1,3 +1,8 @@
-Old Dwarf blacksmith of the Flameskull clan with prostethic arm played by Oskar
+---
+tags:
+  - player-character
+  - character
+---
+Old Dwarf blacksmith of the Flameskull guild with prostethic arm. 
 
-#character #player-character
+- played by Oskar
