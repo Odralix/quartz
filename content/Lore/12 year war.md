@@ -1,0 +1,1 @@
+The conflict between [[Hexisos]] and [[Amazons of the north]] which recently ended but claimed many lives
