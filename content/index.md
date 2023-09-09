@@ -1,4 +1,5 @@
 ---
+title: Homepage
 banner: "![[dd-theros-flying-chariot.jpg]]"
 cssclasses:
   - dashboard
