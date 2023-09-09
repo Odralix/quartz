@@ -6,3 +6,4 @@ She is sometimes compared to [[Hédonos]] as a divine of powerful emotions but h
 
 She is sweet seduction, she is soft and caring and kind. And also jelous and cold and prideful. Hers is the role of love and of disdain.
 
+#Deity

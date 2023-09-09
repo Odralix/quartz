@@ -6,5 +6,4 @@ She is the personification of "Logos" logic and strategy. Valuing cunning, battl
 
 Priests of Alkéia urge followers to make decisions with their mind not their heart as emotions are fickle and being ruled by them leads to non-optimal soloutions and lost battles
 
-
-
+#Deity

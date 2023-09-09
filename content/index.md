@@ -1,6 +1,6 @@
 
 ---
-banner: "Picture Library/dd-theros-flying-chariot 1.jpg"
+banner: "Picture Library/Decoration/dd-theros-flying-chariot 1.jpg"
 cssclass: dashboard
 banner_y: 0.018
 ---

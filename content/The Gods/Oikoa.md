@@ -13,5 +13,6 @@ The relationship between the two is seen as amicable otherwise as they and [[Alk
 
 Strange to some she also shares a close personal partnership with [[Phynai]]
 
+#Deity
 
 

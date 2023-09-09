@@ -8,3 +8,5 @@ He's known as the second strongest man in [[Thársos]] after [[Rex Kharisian]]
 
 He's the younger brother of [[Atreidaes]]
 
+#npc #character
+

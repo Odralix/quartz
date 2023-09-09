@@ -10,4 +10,6 @@ As a Titan they are the most closely tied in the pantheon to the [[Nymphs]] part
 
 As such they are a popular god to worship among Nymphs.
 
+#Deity
+
 

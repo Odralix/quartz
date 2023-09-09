@@ -12,3 +12,5 @@ Was there something you passed by or couldn’t get into? Here’s a good place 
 We entered a cavern after having followed the man that had kidnapped the husband. 
 
 ![[Page 1.jpg]]
+
+#journal

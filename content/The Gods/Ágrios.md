@@ -7,3 +7,5 @@ The god of the hunt, violence and bloodlust is the union of burning desire, cunn
 He shares a bitter rivalry with the [[Alkéia]] 
 
 Where as she represents strategy he represents the fighting spirit of a foe that will not give up and continues fighting no matter what and at impossible odds.
+
+#Deity

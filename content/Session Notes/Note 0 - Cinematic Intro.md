@@ -58,3 +58,5 @@ AND THE DOCK ERUPTS IN VICTORIOUS SHOUTS! A LEGEND HAS ARRIVED!
 Welcome players and friends to ÁTOPOS!  
   
 What will your legend be?
+
+#journal

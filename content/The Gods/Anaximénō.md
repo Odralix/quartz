@@ -17,3 +17,4 @@ Many followers of Anaximéno consider this heresy and hearsay as there is no rec
 
 Perhaps he was more active in ancient times or perhaps his lack of involvment in mortal affairs simply inspires tales by the lack thereof. But one thing is certain. Sooner or later. All mortals will enter his domain.
 
+#Deity

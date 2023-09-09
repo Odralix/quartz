@@ -9,3 +9,5 @@ She is the Matron Goddess of Druids and followed by many. Her followers often in
 She is the Mother of [[Ágrios]] and [[Hédonos]]
 
 And paradoxically to some the lifepartner of [[Oikoa]]
+
+#Deity

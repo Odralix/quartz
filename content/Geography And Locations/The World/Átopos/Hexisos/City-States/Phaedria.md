@@ -11,3 +11,5 @@ Phaedria is also well known for one particular feature. A few leauges out from t
 "Fate is not kind. Nor is it simple. It is a fickle thing. 
 To those who seek tame or know it take heed:
 Knowing Fate costs more than most are willing to bleed."
+
+#Island #city-state

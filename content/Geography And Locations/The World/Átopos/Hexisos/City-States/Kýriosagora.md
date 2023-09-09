@@ -11,3 +11,6 @@ And as the locals say "If you can't buy it in Kýriosagora, you can't buy it any
 It is also considered the safest island due to the fact that its small size has allowed the people here to domesticate it in its entirety. There are no native monsters on Kýriosagora!
 
 It is by far the oldest city in the isles, something the ancient [[Great Tower]] in the center of it speaks for as the tallest and oldest building in all of [[Átopos]].
+
+#Island #city-state
+

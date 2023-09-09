@@ -11,3 +11,5 @@ It is known as a bad omen. A place best left forgotten. Yet many have attempted 
 There are however one or two tales of those who ventured deep within and returned with riches and scars. However those were beyond mortal men. Demi-gods and heroes and in some cases it is rumored. The Gods themselves in disguise. For never do the truly mortal who entered return together with the extraordinary who leave.
 
 Yet every decade a few fools try their luck. And never do they return.
+
+#Island
