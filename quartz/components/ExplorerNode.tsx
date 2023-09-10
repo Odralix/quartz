@@ -153,7 +153,7 @@ export function ExplorerNode({ node, opts, fullPath }: ExplorerNodeProps) {
         // Single file node
         <li key={node.file.slug} class="no-pointer">
           <a
-            href={`/${node.file.slug}`}
+            href={`/quartz/${node.file.slug}`}
             data-for={node.file.slug}
             class={`clickable ${isInvisInner ? "no-pointer" : ""}`}
           >
