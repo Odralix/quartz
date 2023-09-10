@@ -47,12 +47,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const data = await fetchData
 
   const links: LinkData[] = []
-  const validLinks = new Set(Object.keys(data).map((slug) => simplifySlug(slug as FullSlug)))
   for (const [src, details] of Object.entries<ContentDetails>(data)) {
     const source = simplifySlug(src as FullSlug)
     const outgoing = details.links ?? []
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      if (dest in data) {
         links.push({ source, target: dest })
       }
     }
