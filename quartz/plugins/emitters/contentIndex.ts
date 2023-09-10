@@ -1,6 +1,5 @@
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
-import { escapeHTML } from "../../util/escape"
 import { FilePath, FullSlug, SimpleSlug, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import path from "path"
@@ -30,7 +29,7 @@ const defaultOptions: Options = {
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
-    <loc>https://${base}/${encodeURI(slug)}</loc>
+    <loc>https://${base}/${slug}</loc>
     <lastmod>${content.date?.toISOString()}</lastmod>
   </url>`
   const urls = Array.from(idx)
@@ -44,9 +43,9 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex): string {
   const root = `https://${base}`
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
-    <title>${escapeHTML(content.title)}</title>
-    <link>${root}/${encodeURI(slug)}</link>
-    <guid>${root}/${encodeURI(slug)}</guid>
+    <title>${content.title}</title>
+    <link>${root}/${slug}</link>
+    <guid>${root}/${slug}</guid>
     <description>${content.description}</description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
   </item>`
@@ -57,7 +56,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex): string {
   return `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>${escapeHTML(cfg.pageTitle)}</title>
+      <title>${cfg.pageTitle}</title>
       <link>${root}</link>
       <description>Recent content on ${cfg.pageTitle}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
