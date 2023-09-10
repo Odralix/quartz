@@ -11,7 +11,9 @@
 
 ## Introduction
 
-Order in the Cosmos is an important aspect of Atopos As such when a person devotes themselves to a specific god or vocation, a calling. Most heroes of Atopos have been so dedicated to their cause their devotion has become integral parts of them. From Skázos devotion to Sidēreús granting him hands of golden flame to Alkéia's champion Adaman's crystal body or Techné the great artist who's long braided hair turned to brushes of ever-changing colors in response to her pure fervor of creation. 
+Order in the Cosmos is an important aspect of Atopos As such when a person devotes themselves to a specific god or vocation or simply a calling they may become part of The Devoted.
+
+Most heroes of Atopos have been so dedicated to their cause their devotion has become integral parts of them. From Skázos devotion to Sidēreús granting him fists of golden flame to Alkéia's champion Adaman's crystal body or Techné the great artist who's long braided hair turned to brushes of ever-changing colors in response to her pure fervor of creation. 
 
 ## Choosing a Devotion
 A devotion should not be chosen lightly as it is intended to be a Life Calling. 
