@@ -80,6 +80,17 @@ export function renderPage(
     </div>
   )
 
+  var extraCssClass = "center";
+
+  if(!(componentData.fileData.frontmatter === undefined))
+  {
+    var index = componentData.fileData.frontmatter.tags.indexOf('dashboard');
+    if(index > -1)
+    {
+       extraCssClass += " dashboard";
+    }
+  }
+
   const doc = (
     <html>
       <Head {...componentData} />
@@ -87,7 +98,7 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
+            <div class={extraCssClass}>
               <div class="page-header">
                 <Header {...componentData}>
                   {header.map((HeaderComponent) => (

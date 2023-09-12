@@ -4,8 +4,14 @@ banner: "![[dd-theros-flying-chariot.jpg]]"
 cssclasses:
   - dashboard
 banner_y: 0.316
+tags:
+  - dashboard
 ---
+
+![[dd-theros-flying-chariot.jpg]]
+
 ## <p style="text-align: center;">Welcome To Átopos!</p>
+
 
 ---
 - ### 🌐World 

@@ -1,1 +1,51 @@
 // put your custom CSS here!
+.dashboard {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 0px !important;
+}
+
+// .dashboard .markdown-preview-section {
+//     max-width: 100%;
+// }
+
+// /* Title at top of the document */
+// .dashboard .markdown-preview-section .title {
+//     top: 0px;
+//     position: absolute;
+//     font-size: 26pt !important;
+//     font-weight: bolder;
+//     letter-spacing: 8px;
+// }
+
+// .dashboard h1 {
+//     border-bottom-style: dotted !important;
+//     border-width: 1px !important;
+//     padding-bottom: 3px !important;
+// }
+
+// .dashboard > ul {
+//     list-style: none;
+//     display: flex;
+//     column-gap: 30px;
+//     flex-flow: row wrap;
+// }
+
+// .dashboard div > ul {
+//     list-style: row;
+//     display: flex;
+//     column-gap: 30px;
+//     flex-flow: row wrap;
+// }
+
+.dashboard > article > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    flex-flow: row wrap;
+}
+
+.dashboard > article > ul > li {
+    min-width: 30%;
+    width: 30%;
+}
