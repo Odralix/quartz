@@ -1,3 +1,7 @@
+---
+tags:
+  - Deity
+---
 -Goddess of the Home, indoors, property, Heart, Hearth, Cooking and Domestication-
 -Mother of Polis-
 
@@ -12,7 +16,5 @@ Some insist that if not that Sidēreús must have done something else to earn he
 The relationship between the two is seen as amicable otherwise as they and [[Alkéia]] are often seen as co-operatory for mortal safety and progression.
 
 Strange to some she also shares a close personal partnership with [[Phynai]]
-
-#Deity
 
 

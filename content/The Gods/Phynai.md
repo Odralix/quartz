@@ -1,3 +1,7 @@
+---
+tags:
+  - Deity
+---
 -Goddess of Plants, Trees, Beasts, Nature, the outdoors and The Wild-
 
 Also referred to as Mother Nature she personifies all things wild and free. Including some monsters such as Wyverns, Manticores and Cerberi.
@@ -9,5 +13,3 @@ She is the Matron Goddess of Druids and followed by many. Her followers often in
 She is the Mother of [[Ágrios]] and [[Hédonos]]
 
 And paradoxically to some the lifepartner of [[Oikoa]]
-
-#Deity

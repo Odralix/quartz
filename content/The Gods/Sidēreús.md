@@ -1,3 +1,7 @@
+---
+tags:
+  - Deity
+---
 -Titan God of Fire, Metallurgy, Carpenters, Craftsmen, Artisans, Gifts and Mortal Progress-
 
 They are the Patron of [[Pyreus]]
@@ -9,7 +13,5 @@ And so the only Titan in the modern day pantheon the divine of fire solidified t
 As a Titan they are the most closely tied in the pantheon to the [[Nymphs]] particularily the [[Fire Nymph]]s and said to have created them from those first mortals that accepted the gift of fire.
 
 As such they are a popular god to worship among Nymphs.
-
-#Deity
 
 

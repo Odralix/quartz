@@ -9,7 +9,7 @@ tags:
 ---
 
 <p>
-<img src="./Picture-Library/Decoration/dd-theros-flying-chariot.jpg" width="50%" height="50%">
+<img src="./Picture-Library/Decoration/dd-theros-flying-chariot.jpg" width="100%" height="25%">
 </p>
 
 ## <p style="text-align: center;">Welcome To Átopos!</p>

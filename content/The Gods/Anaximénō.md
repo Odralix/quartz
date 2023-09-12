@@ -1,3 +1,7 @@
+---
+tags:
+  - Deity
+---
 -The God Who Waits-
 
 Anaximéno is the Lord of the Underworld "[[Apóllumnos]]" and he is often depicted as a faintly smiling older white-bearded gentleman. Often with open arms wearing simple clothing except for the fine blood-red cloak carried upon his back.
@@ -16,5 +20,3 @@ Eventually it is said that Anaximéno tired of the conflict as an ever-increasin
 Many followers of Anaximéno consider this heresy and hearsay as there is no record of such a city surviving to current day or even notation of what other cities would be involved in the war.
 
 Perhaps he was more active in ancient times or perhaps his lack of involvment in mortal affairs simply inspires tales by the lack thereof. But one thing is certain. Sooner or later. All mortals will enter his domain.
-
-#Deity

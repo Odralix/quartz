@@ -1,3 +1,8 @@
+---
+tags:
+  - journal
+  - intro
+---
 We open on a blue, peaceful sky with tufts of white cloud drifting lazily by.  
   
 A small brown dot upon the horizon growing ever closer. It becomes clear to us first that it is some kind of bird. As it draws closer and easier to define it is a majestic eagle. Its feathers glistening like bronze in the early morning sun.  
@@ -58,5 +63,3 @@ AND THE DOCK ERUPTS IN VICTORIOUS SHOUTS! A LEGEND HAS ARRIVED!
 Welcome players and friends to ÁTOPOS!  
   
 What will your legend be?
-
-#journal
