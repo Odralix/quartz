@@ -3,12 +3,14 @@ title: Homepage
 banner: "![[dd-theros-flying-chariot.jpg]]"
 cssclasses:
   - dashboard
-banner_y: 0.316
+banner_y: 0.452
 tags:
   - dashboard
 ---
 
-![[dd-theros-flying-chariot.jpg]]
+<p>
+<img src="./Picture-Library/Decoration/dd-theros-flying-chariot.jpg" width="50%" height="50%">
+</p>
 
 ## <p style="text-align: center;">Welcome To Átopos!</p>
 

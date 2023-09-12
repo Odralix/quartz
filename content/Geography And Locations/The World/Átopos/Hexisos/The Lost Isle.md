@@ -1,3 +1,7 @@
+---
+tags:
+  - Island
+---
 -Home of Monsters-
 
 Once upon a time there were settlements upon this island.

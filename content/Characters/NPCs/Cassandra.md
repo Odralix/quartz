@@ -1,3 +1,6 @@
-Tharusian centaur general and representative of the centaur tribes
-
-#npc #character
+---
+tags:
+  - npc
+  - character
+---
+Tharusian centaur general and representative of the centaur tribes.

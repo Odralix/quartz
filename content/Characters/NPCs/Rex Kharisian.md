@@ -1,3 +1,10 @@
+---
+tags:
+  - npc
+  - character
+  - royalty
+---
+
 Also known as LeukóLéon or The White Lion
 
 Rumored to be blessed by both [[Alkéia]] and [[Ágrios]] he is the rightful king of [[Thársos]]
@@ -11,5 +18,3 @@ To him battle seems but a dance and he dodges weaves and strikes all quicker tha
 In personality the king is aware of his position and talent but often appears understanding and merciful even in the presence of the most vile of people. 
 
 Friend of [[Iphled the Infirm]]
-
-#npc #character
