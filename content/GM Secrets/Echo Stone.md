@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 A black obelisk stands tall silluetted against the sky and sands. Bands of rough-hewn runes glow faintly in red, green and blue.
 
 ---

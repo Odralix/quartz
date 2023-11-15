@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 1. Master of Harbor - Kapnisti rénga (Red herring) or Cap Ren - has dealings with Sylvia and Medea. There's a missing shipment he needs help with. Seen shiping some strange yellow liquids. (Actually just acid vials distilled from slain Oozes. Good potion pre-cursor) Salmon mask. 
 
 4. Alchemist Asociation leader - Sylvia
