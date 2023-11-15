@@ -1,4 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
+import { Content } from "./quartz/components"
 import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
@@ -10,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "quartz.odralix.quartz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "content/GM secrets"],
     defaultDateType: "created",
     theme: {
       typography: {
