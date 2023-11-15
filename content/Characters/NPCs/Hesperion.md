@@ -1,3 +1,14 @@
+---
+tags:
+  - npc
+  - character
+  - lion's share
+  - wild warden
+  - leader
+  - noble
+---
+
+
 The Wild Warden of [[Thársos]] also known as The Hot Minotaur
 
 Who attempted to save the party from a chimera by jumping off the back of his pet Wyvern only to find it already incapacitated by a certain Pseudodragon.
@@ -8,5 +19,10 @@ He's known as the second strongest man in [[Thársos]] after [[Rex Kharisian]]
 
 He's the younger brother of [[Atreidaes]]
 
-#npc #character
+Recently was temporarily suspended as [[Wild Warden]] but made a Noble by [[Rex Kharisian]]
+
+>[!kith|antagonist] **[[Simeon Dunkel]]** _Keeps insulting him for no apparent reason_
+
+>[!kith|friend] **[[Tricha II Kerato]]** _Gave him some really good horn oil_
+
 

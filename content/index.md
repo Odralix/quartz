@@ -46,7 +46,7 @@ tags:
 	- [[Flameskull brand]]
 
 - ### 📚Lore
-	- [[12 year war]]
+	- [[10 year war]]
 	- [[Political Situation]]
 	- [[Apóllumnos]]
 - ### 📝Player Resources

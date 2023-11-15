@@ -1,6 +1,7 @@
 ---
 tags:
   - npc
+  - character
   - vendor
   - faction-leader
 ---

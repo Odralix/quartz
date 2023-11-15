@@ -4,7 +4,6 @@ tags:
   - character
   - royalty
 ---
-
 Also known as LeukóLéon or The White Lion
 
 Rumored to be blessed by both [[Alkéia]] and [[Ágrios]] he is the rightful king of [[Thársos]]

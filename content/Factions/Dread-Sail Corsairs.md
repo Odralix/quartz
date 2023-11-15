@@ -1,0 +1,1 @@
+The Pirate group that's recently been terrorizing [[Thársos]] merchant ships.
